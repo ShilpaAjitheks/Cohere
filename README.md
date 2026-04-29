@@ -7,7 +7,7 @@ and rerank.
 ## Dataset
 
 bbc_news_full.csv
-2,225 BBC articles across 5 classes:
+: 2,225 BBC articles across 5 classes:
 
 | class         | count |
 |---------------|------:|
